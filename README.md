@@ -1,7 +1,7 @@
 # Where-is-my-wine
 A wine recommendation system
 
-Overview
+## Overview
 
 I would like to propose a wine recommendation system called “Where is my wine.” The reason why I’m interested in such a system is that as a wine lover, it is really difficult for me to choose a wine when I’m facing tons of various wines lying in the shelves of a liquor store. I would really appreciate it if there is a platform that can provide me some wine recommendations based on my personal preference.
 
