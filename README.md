@@ -1,5 +1,6 @@
-# Where-is-my-wine http://where-is-my-wine.herokuapp.com/
+# Where-is-my-wine 
 A wine recommendation system
+http://where-is-my-wine.herokuapp.com/
 
 ## Overview
 
